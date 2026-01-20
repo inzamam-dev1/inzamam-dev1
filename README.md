@@ -29,7 +29,7 @@
 
 **Frontend**
 - HTML, CSS, JavaScript  
-- React.js (Hooks, Basics)
+- React.js
 
 **Backend**
 - Node.js, Express.js  

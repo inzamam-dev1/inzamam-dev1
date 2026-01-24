@@ -65,7 +65,7 @@
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/md-inzamam  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-inzamam-070476339
 - 🌐 Portfolio: *Coming Soon*  
 
 ---

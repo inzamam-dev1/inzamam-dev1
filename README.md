@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer in Progress</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-inzamam" target="_blank">
+  <a href="https://www.linkedin.com/in/md-inzamam-070476339" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/mdinzamam">

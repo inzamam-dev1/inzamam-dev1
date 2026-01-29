@@ -64,7 +64,7 @@
 ### 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/md-inzamam-070476339
-- 🌐 Portfolio: *Coming Soon*  
+- 🌐 Portfolio: https://inzufolio.netlify.app/  
 
 ---
 

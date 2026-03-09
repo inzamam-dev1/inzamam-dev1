@@ -65,9 +65,9 @@ const inzamam = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **🎬 Netflix GPT** | AI-powered movie recommendation platform with intelligent search | React • Firebase • OpenAI API • Tailwind | [Demo](#) |
-| **🍔 Food Ordering App** | Feature-rich food delivery platform with cart management | React • Redux • REST API | [Demo](#) |
-| **📰 Fake News Detector** | ML-powered fact-checking platform to combat misinformation | MERN Stack • NLP • ML | [In Progress] |
+| **📄 ResumeIQ** | AI-powered resume analyzer and optimization platform | React • OpenAI API • Node.js • MongoDB | [Demo](#) |
+| **📺 FoxTube** | Video streaming platform with custom video player and recommendations | React • Redux • YouTube API • Firebase | [Demo](#) |
+| **🍔 FoodApp** | Feature-rich food delivery platform with cart management | React • Redux • REST API • Tailwind | [Demo](#) |
 
 </div>
 
